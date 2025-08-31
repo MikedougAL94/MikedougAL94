@@ -1,21 +1,24 @@
-# 💫 About Me:
-A student at Universidade Virtual de São Paulo (UNIVESP), on course of DataScience 
+<h1 align="center">Hello! My name is Michael</h1>
+
+<h3 align="center"> A Data Scientist from Brazil. 🎲 🇧🇷 </h3>
+
+<h2> About: </h2>
+
+- University : Universidade Virtual de São Paulo (UNIVESP);
+
+- Studying: Probality, Statistican and Python; 
+
+- 
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MikedougAL94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MikedougAL94&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikedougAL94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MikedougAL94&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MikedougAL94&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h2> 🔬 Tools:</h2> <p> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="center">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MikedougAL94&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAL94&theme=dark&show_icons=true)
+
