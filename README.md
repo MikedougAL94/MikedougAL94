@@ -30,5 +30,5 @@
 
 <h2> My status: </h2>
 
-![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAL94&theme=dark&show_icons=true) 
+![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikedougAL94&theme=dark&show_icons=true) 
 
