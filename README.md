@@ -26,9 +26,3 @@
   <a href="https://www.linkedin.com/in/michael-douglas94/" target="https://www.linkedin.com/in/michael-douglas94/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/michael-douglas94/"></a> 
   
 </div>
-
-
-<h2> My status: </h2>
-
-![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikedougAL94&theme=dark&show_icons=true) 
-
